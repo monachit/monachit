@@ -1,7 +1,7 @@
 <h3 align="center">root:~$ whoami</h3>
 
 <p align="center">
-  [![mnachit's 42 stats](https://badge.mediaplus.ma/binary/mnachit)](https://github.com/oakoudad/badge42)
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mnachit" alt="mnachit's 42 stats" /></a>
 </p>
 
 <p align="center">
@@ -37,4 +37,5 @@ Backend Developer • 42 Network • Full-Stack Builder
 <p align="center">
 “Build systems. Understand deeply. Stay consistent.”
 </p>
+
 
