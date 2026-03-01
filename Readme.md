@@ -1,13 +1,18 @@
-root:~$ whoami
-[![mnachit's 42 stats](https://badge.mediaplus.ma/binary/mnachit)](https://github.com/oakoudad/badge42)
+<h3 align="center">root:~$ whoami</h3>
+<p align="center">
+  <b>Mouad Nachit</b>
+</p>
 
-Software engineering student building full-stack and backend systems.
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/mnachit" />
+  </a>
+</p>
 
-⚙️ Backend: Node.js, NestJS, REST APIs  
-🗄️ PostgreSQL • Prisma  
-🐳 Docker • Multi-service architecture  
-💻 C / C++ • Socket programming  
+<p align="center">
+Software Engineering Student • Backend Developer • 42 Network
+</p>
 
-📫 moadnachit4@gmail.com  
-🔗 github.com/monachit  
-🔗 linkedin.com/in/monachit
+---
+
+### ⚙️ Stack
