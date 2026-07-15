@@ -12,7 +12,7 @@ Backend Developer • 42 Network • Full-Stack Builder
 
 ### 🧠 About Me
 
-🛠 I’m currently building full-stack applications using **NestJS, React & Next.js**.  
+🛠 I’m currently building full-stack applications using **Java Spring boot, Angular**.  
 ⚙️ I design REST APIs with proper architecture and clean structure.  
 🐳 I work with Docker and multi-service environments.  
 💻 I have a strong foundation in **C / C++** and socket programming.  
