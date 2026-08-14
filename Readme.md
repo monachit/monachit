@@ -1,7 +1,7 @@
 <h3 align="center">root:~$ whoami</h3>
 
 <p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/mnachit" alt="mnachit's 42 stats" /></a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/mnachit" alt="mnachit's 42 stats" /></a>
 </p>
 
 <p align="center">
